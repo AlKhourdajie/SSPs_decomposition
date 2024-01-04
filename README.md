@@ -19,5 +19,5 @@ Details on data preparation and downselection are available in folder *01_input_
 ## Methods
 We utilise the Shapley-Owen decomposition method, and apply it on the SSPs datafile prepared in *01_input_data_prep*.
 
-The implementation of the Shapley-Owen decomposition method is described in folder *02_shapley_owen_decomposition_calculations*.
+The implementation of the Shapley-Owen decomposition method in Python is available in folder *02_shapley_owen_decomposition_calculations*. Check the paper for further details.
 

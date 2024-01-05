@@ -19,7 +19,7 @@ Details on data preparation and downselection are available in folder *01_input_
 ## Methods and Results
 We utilise the Shapley-Owen decomposition method, and apply it on the SSPs datafile prepared in *01_input_data_prep*.
 
-The implementation of the Shapley-Owen decomposition method in Python is available in folder *02_shapley_owen_decomposition_calculations*. Check the paper for further details.
+The implementation of the Shapley-Owen decomposition method in Python is available in folder *02_decomposition_analysis_figures*. Check the paper for further details.
 
 The folder also include the script that implement the Shapley-Owen methodolgy and generat the results for both the main body of the paper, as well as the diagnostic analysis presented in Appendix E. 
 
@@ -29,9 +29,12 @@ The ternay results and plots in the main body of the paper can be found in folde
 
 The remainder of all results and plots can be found in folder *04_appendix_c_supplementary_figures*
 
-All results should be reproducible by following the sequence of the files in this repo. 
+All results should be reproducible by following the sequence of the scripts in this repo. 
 
 For any question or feedback on the Python implementation of the analysis, please do get in touch.
+
+## Data
+All input data files and results are available in folder *05_data*.
 
 ## Citation
 If you find our work useful, please cite our paper. Please do so also in case you make use of the code or variation of it. 

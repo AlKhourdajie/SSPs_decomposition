@@ -37,4 +37,6 @@ If you find our work useful, please cite our paper. Do so also in case you make 
 For any question or feedback on the Python implementation of the analysis, please do get in touch
 
 ## Acknowledgments
-Alaa Al Khourdajie and Jim Skea were supported by the Engineering and Physical Sciences Research Council, United Kingdom, grant/award no. EP/P022820/1. Alaa Al Khourdajie was also supported by the European Union’s Horizon Europe research and innovation programme under grant agreement no. 101056306 (IAM COMPACT).
+Alaa Al Khourdajie and Jim Skea were supported by the Engineering and Physical Sciences Research Council, United Kingdom, grant/award no. EP/P022820/1. 
+
+Alaa Al Khourdajie was also supported by the European Union’s Horizon Europe research and innovation programme under grant agreement no. 101056306 (IAM COMPACT).

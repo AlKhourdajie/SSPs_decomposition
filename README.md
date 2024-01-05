@@ -16,7 +16,7 @@ Citation:
 
 Details on data preparation and downselection are available in folder *01_input_data_prep* above. The code also produces *Figure B.1* and *Table B.3*, Appendix B in the paper.
 
-## Methods
+## Methods and Results
 We utilise the Shapley-Owen decomposition method, and apply it on the SSPs datafile prepared in *01_input_data_prep*.
 
 The implementation of the Shapley-Owen decomposition method in Python is available in folder *02_shapley_owen_decomposition_calculations*. Check the paper for further details.
@@ -25,3 +25,16 @@ The folder also include the script that implement the Shapley-Owen methodolgy an
 
 Figures provided here are the decomposition figures only for the main body of the paper, as well as Figure D.1 (Appendix D), and Figures E.1 - E.6 (Appendix E) 
 
+The ternay results and plots in the main body of the paper can be found in folder *03_ternary_plots*
+
+The remainder of all results and plots can be found in folder *04_appendix_c_supplementary_figures*
+
+All results should be reproducible by following the sequence of the files in this repo. 
+
+## Citation
+If you find our work useful, please cite our paper. Do so also in case you make use of the code of variation of it. 
+
+For any question or feedback on the Python implementation of the analysis, please do get in touch
+
+## Acknowledgments
+Alaa Al Khourdajie and Jim Skea were supported by the Engineering and Physical Sciences Research Council, United Kingdom, grant/award no. EP/P022820/1. Alaa Al Khourdajie was also supported by the European Union’s Horizon Europe research and innovation programme under grant agreement no. 101056306 (IAM COMPACT).

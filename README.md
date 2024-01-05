@@ -31,10 +31,10 @@ The remainder of all results and plots can be found in folder *04_appendix_c_sup
 
 All results should be reproducible by following the sequence of the files in this repo. 
 
-## Citation
-If you find our work useful, please cite our paper. Do so also in case you make use of the code of variation of it. 
+For any question or feedback on the Python implementation of the analysis, please do get in touch.
 
-For any question or feedback on the Python implementation of the analysis, please do get in touch
+## Citation
+If you find our work useful, please cite our paper. Please do so also in case you make use of the code or variation of it. 
 
 ## Acknowledgments
 Alaa Al Khourdajie and Jim Skea were supported by the Engineering and Physical Sciences Research Council, United Kingdom, grant/award no. EP/P022820/1. 

@@ -39,3 +39,5 @@ If you find our work useful, please cite our paper. Please do so also in case yo
 
 ## Acknowledgments
 Alaa Al Khourdajie and Jim Skea were supported by the Engineering and Physical Sciences Research Council, United Kingdom, grant/award no. EP/P022820/1. 
+
+Alaa Al Khourdajie was also supported by the European Union’s Horizon Europe research and innovation programme under grant agreement no. 101056306 (IAM COMPACT).

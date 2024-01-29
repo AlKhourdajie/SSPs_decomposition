@@ -2,7 +2,7 @@
 
 ## Introduction
 This repository contains the scripts that accompany the paper
-> Al Khourdajie, A., J. Skea & R. Green (Accepted). “Climate ambition, background scenario or the model? Attribution of the variance of energy-related indicators in global scenarios.” Energy and Climate Change
+> Al Khourdajie, A., Skea, J., & Green, R. (2024). Climate ambition, background scenario or the model? Attribution of the variance of energy-related indicators in global scenarios. Energy and Climate Change, 100126. ISSN 2666-2787. https://doi.org/10.1016/j.egycc.2024.100126.
 
 Below we provide details on preparing the data, implementing the Shapley-Owen decompostion method, generating and visualising the results, generating the supplementary results.      
 

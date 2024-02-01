@@ -6,6 +6,9 @@ This repository contains the scripts that accompany the paper
 
 Below we provide details on preparing the data, implementing the Shapley-Owen decompostion method, generating and visualising the results, generating the supplementary results.      
 
+## Graphical Abstract
+![alt text](https://github.com/AlKhourdajie/SSPs_decomposition/blob/main/03_ternary_plots/Graphical_Abstract.png)
+
 ## Data
 The data used in this paper: SSP Database (Shared Socioeconomic Pathways) - Version 2.0
 

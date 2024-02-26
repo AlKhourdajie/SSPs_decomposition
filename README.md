@@ -1,7 +1,7 @@
 # SSPs Decomposition
 
 Latest release can be found on Zenodo: 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10640623.svg)](https://doi.org/10.5281/zenodo.10640623)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10640622.svg)](https://doi.org/10.5281/zenodo.10640622)
 
 ## Introduction
 This repository contains the scripts that accompany the paper

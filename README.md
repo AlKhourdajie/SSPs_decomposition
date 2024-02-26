@@ -1,5 +1,8 @@
 # SSPs Decomposition
 
+Latest release can be found on Zenodo: 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10640623.svg)](https://doi.org/10.5281/zenodo.10640623)
+
 ## Introduction
 This repository contains the scripts that accompany the paper
 > Al Khourdajie, A., Skea, J., & Green, R. (2024). Climate ambition, background scenario or the model? Attribution of the variance of energy-related indicators in global scenarios. Energy and Climate Change, 100126. ISSN 2666-2787. https://doi.org/10.1016/j.egycc.2024.100126.
